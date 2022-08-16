@@ -1,12 +1,8 @@
-# People
+# Learn Ruby on Rails with Copilot
 
-This is an archive of Markdown notes. The GitHub repository is a backup of files on my personal computer.
+This is an archive of Markdown notes for the book *Learn Ruby on Rails with Copilot*. The book is based on the original [*Learn Ruby on Rails*](https://learn-rails.com/) book.
 
-The notes were originally created:
-- in the Ulysses application beginning 2020-03-05
-
-I migrated the notes to the Obsidian application and backed them up to GitHub:
-- 2022-08-07 (from Ulysses)
+The notes were originally created as Markdown notes in the [Obsidian](https://obsidian.md/) application beginning 2022-08-16.
 
 ## GitIgnore
 

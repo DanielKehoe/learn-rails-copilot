@@ -1,7 +1,9 @@
 Introduction
 ============
 
-Welcome. This is Book Two in my [Ruby on Rails book series](http://learn-rails.com/learn-ruby-on-rails.html). It is written for Rails 5.1.
+Welcome. This book is *Learn Ruby on Rails with Copilot*.
+
+It is written for Rails 7.0. Check the [list of Rails releases](https://rubyonrails.org/category/releases) to see if the book is up to date.
 
 In this book, you'll build a working web application so you'll gain
 hands-on experience. Along the way, you'll practice techniques used by

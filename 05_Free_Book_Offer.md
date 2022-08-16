@@ -1,17 +1,19 @@
-# Version Check, Videos, and More
+# Version and Videos
 
-Before you get started, I want you to have the most current version of my book. Also, I'll tell you how to get the videos and advanced tutorials.
+Before you get started, check that this is the most current version of my book.
 
 ## Version Check
 
-If you have the PDF, ePub, or Mobi versions of the book, check the title page for the version number and look on the webpage for the [learn-rails GitHub repository](https://github.com/RailsApps/learn-rails) to make sure you have the newest version of the book.
+If you got the book from Amazon, or you found a PDF on the web, check that this version:
+- Version 1.0
+matches the version number for the online version of the book:
+- Learn Ruby on Rails with Copilot
 
-I suggest to use the online edition as you build the tutorial application. It is always up to date.
+If your version is out of date, use the online edition.
 
 ## Get the Videos
 
-You can watch videos as you read the book. A subscription is only $19 per month (there's also a discount when you get the video series plus advanced tutorials). It's easy and you'll learn more:
+You can watch videos as you read the book. The videos are free on YouTube:
+- [YouTube Videos](https://www.youtube.com/user/RailsApps)
 
-- [Get the Videos and Advanced Tutorials](https://tutorials.railsapps.org/#plans)
-
-The videos are a great introduction to Rails. With the videos and the advanced tutorials, I promise there is no better way to learn Rails.
+The videos are a great introduction to Rails. With the book and videos, I promise there is no better way to learn Rails.

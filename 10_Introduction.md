@@ -5,7 +5,7 @@ Welcome. This book is *Learn Ruby on Rails with Copilot*.
 
 It is written for Rails 7.0. Check the [list of Rails releases](https://rubyonrails.org/category/releases) to see if the book is up to date.
 
-In this book, you'll build a working web application so you'll gain hands-on experience. You'll use [GitHub Copilot](https://github.com/features/copilot) to help you learn. Copilot is an artificial intelligence assistant for programmers.
+In this book, you'll build a working web application so you'll gain hands-on experience. You'll use [GitHub Copilot](https://github.com/features/copilot) to help you learn. Copilot is an artificial intelligence assistant for programmers. I'll explian in the 
 
 After explaining how to set up your local development environment with Copilot, the book dives into hands-on coding. If you're new to web development, I don't want you to get lost so I've written a companion book *Learn Ruby on Rails: First Steps* to give you the background that working developers (and many book authors) assume everyone knows.
 

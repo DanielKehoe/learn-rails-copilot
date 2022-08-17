@@ -3,17 +3,17 @@ Introduction
 
 Welcome. This book is *Learn Ruby on Rails with Copilot*.
 
-It is written for Rails 7.0. Check the [list of Rails releases](https://rubyonrails.org/category/releases) to see if the book is up to date.
+It is written for Rails 7.0. To see if the book is up to date, check the [list of Rails releases](https://rubyonrails.org/category/releases).
 
-In this book, you'll build a working web application so you'll gain hands-on experience. You'll use [GitHub Copilot](https://github.com/features/copilot) to help you learn. Copilot is an artificial intelligence assistant for programmers. I'll explian in the 
+In this book, you'll build a working web application. You'll use [GitHub Copilot](https://github.com/features/copilot) to help you learn. Copilot is an artificial intelligence assistant for programmers. I'll explain in the next chapter why you should use Copilot.
 
-After explaining how to set up your local development environment with Copilot, the book dives into hands-on coding. If you're new to web development, I don't want you to get lost so I've written a companion book *Learn Ruby on Rails: First Steps* to give you the background that working developers (and many book authors) assume everyone knows.
+The book dives into hands-on coding. If you're new to web development, I don't want you to get lost so I've written a companion book *Learn Ruby on Rails: First Steps* to give you the background that working developers (and many book authors) assume everyone knows.
 
-Read my book *Learn Ruby on Rails: First Steps* to get the big picture that's missing from other tutorials. Read it anywhere, on your phone or tablet. It introduces key concepts so you'll have a solid foundation for continued study. You can get started coding with this book before you finish the *First Steps* book.
+Read my other book *Learn Ruby on Rails: First Steps* to get the big picture that's missing from other tutorials. Read it anywhere, on your phone or tablet. It introduces key concepts so you'll have a solid foundation for continued study.
 
-This book *Learn Ruby on Rails with Copilot* is for hands-on learning so you'll need your computer to follow this tutorial.
+This book *Learn Ruby on Rails with Copilot* is for hands-on learning so you'll need your computer to follow this tutorial. You can get started coding here before you finish the *First Steps* book.
 
-In this book, I also provide links to videos.  You can find the videos on [YouTube](https://www.youtube.com/user/RailsApps).
+In this book, I also provide links to videos. You can find the videos on [YouTube](https://www.youtube.com/user/RailsApps).
 
 ![The application you will build.\label{fig:book_two_application}](images/figures/learn-rails.png)
 
@@ -22,9 +22,9 @@ Is It for You?
 
 You don't need to be a programmer to succeed with this book. You'll be surprised how quickly you become familiar with the Unix command line interface and the Ruby programming language even if you've never tried programming before.
 
-My book *Learn Ruby on Rails: First Steps* provides a primer for the Unix command line, the terminal, and a text editor. If you have no experience with Unix commands, the terminal window, or a text editor, read the *First Steps* book first. Everything else you need is self-contained in this book.
+My other book *Learn Ruby on Rails: First Steps* provides a primer for the Unix command line, the terminal, and a text editor. If you have no experience with Unix commands, the terminal window, or a text editor, read the *First Steps* book first. Everything else you need is self-contained in this book.
 
-With this book, my aim is to introduce you to Rails and the techniques of web application development so you can launch a startup or begin a new career.
+With this book, my aim is to introduce Rails and the techniques of web application development so you can launch a startup or begin a career.
 
 ## What To Expect
 
@@ -38,7 +38,7 @@ books such as Michael Hartl's [Ruby on Rails Tutorial](https://www.railstutorial
 
 ### About *First Steps*
 
-Here's what is covered in my book *Learn Ruby on Rails: First Steps*, in case you missed it.
+Here's what is covered in my other book *Learn Ruby on Rails: First Steps*, in case you missed it.
 
 In the *First Steps* book, I explain the culture and practices of the Rails
 community. I introduce the basic concepts you'll need to understand

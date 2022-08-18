@@ -28,21 +28,15 @@ With this book, my aim is to introduce Rails and the techniques of web applicati
 
 ## What To Expect
 
-There is deep satisfaction in building an application and making it run.
-With this book, I'll give you everything you need to build a real-world
-Rails application. More importantly, I'll explain everything you build,
-so you understand how it works. There will be no mystery code.
+There is deep satisfaction in building an application and making it run. With this book, I'll give you everything you need to build a real-world Rails application. More importantly, I'll explain everything you build, so you understand how it works. There will be no mystery code.
 
-When you've completed this tutorial, you will be ready for more advanced
-books such as Michael Hartl's [Ruby on Rails Tutorial](https://www.railstutorial.org/) or workshops and code camps that provide intensive training in Ruby on Rails.
+When you've completed this tutorial, you will be ready for more advanced books such as Michael Hartl's [Ruby on Rails Tutorial](https://www.railstutorial.org/), tutorials such as [GoRails](https://gorails.com/), or code camps that provide intensive training in Ruby on Rails.
 
 ### About *First Steps*
 
 Here's what is covered in my other book *Learn Ruby on Rails: First Steps*, in case you missed it.
 
-In the *First Steps* book, I explain the culture and practices of the Rails
-community. I introduce the basic concepts you'll need to understand
-web application development.
+In the *First Steps* book, I explain the culture and practices of the Rails community. I introduce the basic concepts you'll need to understand web application development.
 
 The *First Steps* book will teach you how to be a successful beginner. There is a roadmap, or study guide, in the "Level Up" chapter. It helps to have a map because there is so much to learn. More importantly, to become a skilled Rails developer, you'll need to start writing code, and the book contains a chapter, "Crossing the Chasm," that will give you a strategy for building your own applications.
 
@@ -50,33 +44,18 @@ The *First Steps* book will teach you how to be a successful beginner. There is 
 
 You'll start coding immediately in this book. It's a hands-on tutorial that leads you through the code needed to build a real-world web application. Don't skip around in this book. The tutorial is designed to unfold in steps, one section leading to another, until you reach the "Testing" chapter.
 
-You can complete this book in one long weekend, though it will take
-concentration and stamina. If you work through the book over a longer
-timespan, try to set aside uninterrupted blocks of two hours or more for
-reading and coding, as it takes time to focus and concentrate.
+You can complete this book in one long weekend, though it will take concentration and stamina. If you work through the book over a longer timespan, try to set aside uninterrupted blocks of two hours or more for reading and coding, as it takes time to focus and concentrate.
 
 ### A Warning About Links
 
-My books are densely packed with links for background reading. If you
-click every link, you'll be a well-informed student, but you may never
-finish the book! It's up to you to master your curiosity. Follow the
-links only when you want to dive deeper.
+My books are densely packed with links for background reading. If you click every link, you'll be a well-informed student, but you may never finish the book! It's up to you to master your curiosity. Follow the links only when you want to dive deeper.
 
 ### What Comes Next
 
-The best way to learn is by doing; when it comes to code, that means
-building applications. Hands-on learning with actual Rails
+The best way to learn is by doing; when it comes to code, that means building applications. Hands-on learning with actual Rails
 applications is the key to absorbing and retaining knowledge.
 
-After you read this book, you'll be able to work with the example applications from the [RailsApps Project](http://railsapps.github.io/). The project provides open source
-example applications for Rails developers, for free. Each application is
-accompanied by a tutorial in the Capstone Rails Tutorials
-series, so there's no mystery code. Each application can be generated in a few minutes
-with the [Rails Composer](https://www.railscomposer.com) tool, which professional
-developers use to create starter applications.
 
-The open source project is solely supported by subscriptions to the video series and sales of the
-[Capstone Rails Tutorials](https://tutorials.railsapps.org/). If you get the videos or the advanced tutorials, you'll have my sincere appreciation for your support.
 
 ### Staying In Touch
 

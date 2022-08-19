@@ -55,8 +55,16 @@ My books are densely packed with links for background reading. If you click ever
 The best way to learn is by doing; when it comes to code, that means building applications. Hands-on learning with actual Rails
 applications is the key to absorbing and retaining knowledge.
 
-The best way to learn how experienced developers build Rails applications is to examine the code of a popular starter application. After you've read this book, download one of these starter applications:
+The best way to learn how experienced developers build Rails applications is to examine a popular starter application. After you've read this book, download one of these starter applications:
 
+- [Bullet Train](https://bullettrain.co/) (free)
+- [RailsBytes](https://railsbytes.com/) by GoRails (free)
+- [Suspenders](https://github.com/thoughtbot/suspenders) by Thoughtbot (free)
+- [Bootrails](https://www.bootrails.com/) by Shino Kouda (€79.00)
+- [Business Class](https://businessclasskit.com/) by Josef Strzibny ($249)
+- [Jumpstart](https://jumpstartrails.com/) by GoRails ($249/year subscription)
+
+With the knowledge you gain in this book, you'll be able to understand how the starter applications work. I recommend using your new knowledge to build your own starter application from scratch. After that, you can build anything!
 
 ### Staying In Touch
 
@@ -66,17 +74,10 @@ If you obtained this book from Amazon or a download site, take a moment to get o
 
 ### A Note to Reviewers and Teachers
 
-This book approaches the subject differently than most introductions to
-Rails. In this book, rather than
-show the student how to use scaffolding, I introduce the
-model-view-controller design pattern by creating the components
-manually. Lastly, though every other Rails tutorial shows how to use a
-database, this book doesn't, because I want the book to be a short
-introduction and I believe the basic principles of a web application
-stand out more clearly without adding a database to the application.
+This book approaches the subject differently than most introductions to Rails. Though every other Rails tutorial shows how to use a database, this book doesn't, because I want the book to be a short introduction and I believe the basic principles of a web application stand out more clearly without adding a database to the application. Also, rather than show the student how to use scaffolding, I introduce the model-view-controller design pattern by creating the components manually. 
+
 Though this tutorial is not a typical Rails introduction, I hope you'll
-agree that it does a good job in preparing Rails beginners for continued
-study, whether it is a course or more advanced books.
+agree that it does a good job in preparing Rails beginners for continued study, whether it is a course or more advanced books.
 
 ### Using the Book in the Classroom
 

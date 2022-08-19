@@ -1,5 +1,4 @@
-Introduction
-============
+# Introduction
 
 Welcome. This book is *Learn Ruby on Rails with Copilot*.
 
@@ -17,8 +16,7 @@ In this book, I also provide links to videos. You can find the videos on [YouTub
 
 ![The application you will build.\label{fig:book_two_application}](images/figures/learn-rails.png)
 
-Is It for You?
---------------
+## Is It for You?
 
 You don't need to be a programmer to succeed with this book. You'll be surprised how quickly you become familiar with the Unix command line interface and the Ruby programming language even if you've never tried programming before.
 
@@ -64,7 +62,7 @@ The best way to learn how experienced developers build Rails applications is to 
 - [Business Class](https://businessclasskit.com/) by Josef Strzibny ($249)
 - [Jumpstart](https://jumpstartrails.com/) by GoRails ($249/year subscription)
 
-With the knowledge you gain in this book, you'll be able to understand how the starter applications work. I recommend using your new knowledge to build your own starter application from scratch. After that, you can build anything!
+With the knowledge you gain in this book, you'll be able to use any of the starter applications. I recommend using your new knowledge to build your own starter application from scratch. After that, you can build anything!
 
 ### Staying In Touch
 
@@ -81,11 +79,12 @@ agree that it does a good job in preparing Rails beginners for continued study, 
 
 ### Using the Book in the Classroom
 
-If you've organized a workshop, course, or code camp, and would like to
-assign the book as recommended reading, contact me at
-[daniel@danielkehoe.com](mailto:daniel@danielkehoe.com) to arrange
-access to the book for your students at no charge.
+This book has been popular in classes and code camps worldwide since 2013. If you're a student or instructor, I'd love to hear from you if you've decided to use the book. Email me at [daniel@danielkehoe.com](mailto:daniel@danielkehoe.com) to let me know how you're doing with the book.
+
+### Past Versions
+
+This book is based on *Learn Ruby on Rails*, first released in December, 2013. This is the first version to unlock the power of GitHub Copilot for a new generation of developers.
 
 ### Let's Get Started
 
-In the next chapter, we'll learn how to get help when you need it.
+In the next chapter, I'll explain why GitHub Copilot is so important for web developers. And you'll learn the most important skill: How to get help when you need it.

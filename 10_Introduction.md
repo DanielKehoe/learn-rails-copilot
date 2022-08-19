@@ -5,7 +5,7 @@ Welcome. This book is *Learn Ruby on Rails with Copilot*.
 
 It is written for Rails 7.0. To see if the book is up to date, check the [list of Rails releases](https://rubyonrails.org/category/releases).
 
-In this book, you'll build a working web application. You'll use [GitHub Copilot](https://github.com/features/copilot) to help you learn. Copilot is an artificial intelligence assistant for programmers. I'll explain in the next chapter why you should use Copilot.
+In this book, you'll build a working web application. You'll use [GitHub Copilot](https://github.com/features/copilot) to help you learn. Copilot is an artificially intelligent assistant for programmers. I'll explain in the next chapter why you should use Copilot.
 
 The book dives into hands-on coding. If you're new to web development, I don't want you to get lost so I've written a companion book *Learn Ruby on Rails: First Steps* to give you the background that working developers (and many book authors) assume everyone knows.
 
@@ -30,7 +30,7 @@ With this book, my aim is to introduce Rails and the techniques of web applicati
 
 There is deep satisfaction in building an application and making it run. With this book, I'll give you everything you need to build a real-world Rails application. More importantly, I'll explain everything you build, so you understand how it works. There will be no mystery code.
 
-When you've completed this tutorial, you will be ready for more advanced books such as Michael Hartl's [Ruby on Rails Tutorial](https://www.railstutorial.org/), tutorials such as [GoRails](https://gorails.com/), or code camps that provide intensive training in Ruby on Rails.
+When you've completed this tutorial, you will be ready for more advanced books such as Michael Hartl's [Ruby on Rails Tutorial](https://www.railstutorial.org/),  the [GoRails](https://gorails.com/) tutorials, or code camps that provide intensive training in Ruby on Rails.
 
 ### About *First Steps*
 
@@ -55,13 +55,12 @@ My books are densely packed with links for background reading. If you click ever
 The best way to learn is by doing; when it comes to code, that means building applications. Hands-on learning with actual Rails
 applications is the key to absorbing and retaining knowledge.
 
+The best way to learn how experienced developers build Rails applications is to examine the code of a popular starter application. After you've read this book, download one of these starter applications:
 
 
 ### Staying In Touch
 
-If you obtained this book from Amazon or a download site, take a moment
-to get on the mailing list for the book. I'll let you know when I
-release updates to the book.
+If you obtained this book from Amazon or a download site, take a moment to get on the mailing list for the book. I'll let you know when I release updates to the book.
 
 -   [Get on the mailing list for the book](http://learn-rails.com/mailinglist)
 

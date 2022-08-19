@@ -87,4 +87,4 @@ This book is based on *Learn Ruby on Rails*, first released in December, 2013. T
 
 ### Let's Get Started
 
-In the next chapter, I'll explain why GitHub Copilot is so important for web developers. And you'll learn the most important skill: How to get help when you need it.
+In the next chapter, I'll explain why GitHub Copilot is so important for web developers. Then you'll learn the most important skill: How to get help when you need it.

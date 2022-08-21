@@ -1,5 +1,5 @@
 # Copilot
-GitHub Copilot is an artificial intelligence tool that helps software developers write code. It is an extension for the Visual Studio Code editor, a free and widely used code editor. It is also available as a plugin for the Neovim and JetBrains code editors.
+GitHub Copilot is an artificial intelligence tool that helps software developers write code. It is an add-on for the Visual Studio Code editor, a free and widely used code editor. It is also available as a plugin for the Neovim and JetBrains code editors.
 
 GitHub Copilot requires a $10/month subscription. If you're a student with a .edu email address, you can get it for free. You might wonder whether $10/month is worth it. After using it with this book, you'll see for yourself why GitHub Copilot is worth the cost.
 

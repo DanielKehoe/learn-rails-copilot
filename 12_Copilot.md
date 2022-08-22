@@ -32,4 +32,4 @@ As a new programmer, collaboration with senior engineers becomes more important.
 This, then, is the future of coding with an AI assistant.
 
 ## Limitations of AI
-First of all, let's be clear that "artificial intelligence" is a misnomer. No one can actually define 
+First of all, let's be clear that "artificial intelligence" is a misnomer. Scientists can't really say what constitutes intelligence. And Copilot was 

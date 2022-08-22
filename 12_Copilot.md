@@ -17,5 +17,8 @@ With Copilot, professional programmers now focus on two things:
 - conceptualize product requirements as English-language comments
 - review and refine code suggested by Copilot
 
-In the new AI-assisted world, Copilot does the work of recalling basic logic structure, language usage, and correct syntax for any function you can describe. Copilot doesn't create anything; it just 
+In the new AI-assisted world, Copilot does the work of recalling basic logic structure, language usage, and correct syntax for any function you can describe. That's always been the least rewarding and most time-consuming aspect of programming. For most common problems, Copilot will do that work for you, allowing you to focus on creativity and craft.
 
+Expectations for a programmer's skill will change. Instead of years of experience with a language, its syntax and usage, developers must skillfully communicate requirements so Copilot can produce relevant code. Then developers must assess Copilot's suggestions for relevancy, code quality, and performance.
+
+The implications for learners are significant. 

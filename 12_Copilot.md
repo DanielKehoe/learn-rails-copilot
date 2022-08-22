@@ -30,3 +30,6 @@ Mastery of software development will still be elusive. Maturity and wisdom will 
 As a new programmer, collaboration with senior engineers becomes more important. You'll spend less time slogging through simple problems and instead learn from code reviews how to make code better. You'll still want to seek language mastery but you'll learn from your mentors as you collaboratively review AI-generated code. Ultimately, you'll strive to become the expert that can deliver unique and original feature implementations that lie outside the boundaries of AI knowledge.
 
 This, then, is the future of coding with an AI assistant.
+
+## Limitations of AI
+First of all, let's be clear that "artificial intelligence" is 

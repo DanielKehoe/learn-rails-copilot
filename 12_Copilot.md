@@ -32,4 +32,6 @@ As a new programmer, collaboration with senior engineers becomes more important.
 This, then, is the future of coding with an AI assistant.
 
 ## Limitations of AI
-"Artificial intelligence" is a misnomer. Scientists can't really say what constitutes intelligence, much less agree on how it can be artificial. Copilot is an application of "machine learning" relying on a learning model that 
+"Artificial intelligence" is a misnomer. Scientists can't really say what constitutes intelligence, much less agree on how it can be artificial. Copilot relies on machine learning models; it's just more fun to call it AI.
+
+Copilot is powered by Codex, a version of OpenAI’s GPT-3, a large language model

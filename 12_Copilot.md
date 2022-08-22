@@ -32,6 +32,10 @@ As a new programmer, collaboration with senior engineers becomes more important.
 This, then, is the future of coding with an AI assistant.
 
 ## Limitations of AI
-"Artificial intelligence" is a misnomer. Scientists can't really say what constitutes intelligence, much less agree on how it can be artificial. Copilot relies on machine learning models; it's just more fun to call it AI.
+"Artificial intelligence" is a misnomer. Scientists can't really say what constitutes intelligence, much less agree on how it can be artificial. Copilot relies on machine learning models; it's just more fun to call it AI. 
 
-Copilot is powered by Codex, a version of OpenAI’s GPT-3, a large language model
+Copilot is powered by Codex, a version of OpenAI’s GPT-3, a  language model specifically tuned for programming tasks and trained on millions of code repositories (its "corpus"). Copilot finds and reproduces common patterns found in its corpus. As humans, we can only examine and look for common patterns in a handful of code repositories. When we examine a few code samples, we find more differences than similarities. Because Copilot examines millions of code samples, it finds many more common patterns than we can. It turns out that all existing software consists of common reproducible patterns. Copilot is smarter than us because it sees more code and more patterns faster than we can.
+
+As a beginner or mid-level developer, almost all of the code you  write has been written before by someone else. As a junior developer, you should strive to become familiar with all the familiar patterns used to solve common web development problems. Copilot is a perfect companion to assist you in discovering ways other people have solved common problems.
+
+Copilot won't 

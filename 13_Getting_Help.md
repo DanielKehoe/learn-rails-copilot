@@ -84,13 +84,13 @@ I recommend [Dash](http://kapeli.com/dash) as a tool to look up classes, modules
 
 ## Meetups, Hack Nights, and Workshops
 
-I'd like to urge you to find ways you can work with others who are learning Rails. Peer support is important when you face a challenge and want to overcome obstacles.
+I'd like to urge you to find ways you can work with others who are learning Rails. Peer support is important when you face a challenge and want to overcome obstacles. Sadly, the 2020 (and onwards) pandemic suspended many in-person events but some are back or online.
 
-Most large urban areas have meetups or user group meetings for Rails developers. Try [Meetup.com](http://www.meetup.com/) or google "ruby rails (my city)". The community of Rails developers is friendly and eager to help beginners. If you are near a Rails meetup, it is really worthwhile to connect to other developers for help and support. You may find a group that meets weekly for beginners who study together.
+Most large urban areas used to have meetups or user group meetings for Rails developers. Try [Meetup.com](http://www.meetup.com/) or google "ruby rails (my city)". The community of Rails developers is friendly and eager to help beginners. If you are near a Rails meetup, it is really worthwhile to connect to other developers for help and support. You may find a group that meets weekly for beginners who study together.
 
 Local user groups often sponsor hack nights or [hackathons](http://en.wikipedia.org/wiki/Hackathon) which can be evening or weekend collaborative coding sessions. You don't have to be an expert. Beginners are welcome. You can bring your own project which can be as simple as completing a tutorial. You will likely find a study partner at your level or a mentor to help you learn.
 
-If you are a woman learning Rails, look for one of the free workshops from [RailsBridge](http://railsbridge.org/) or [Rails Girls](http://railsgirls.com/). These are not exclusively for women; everyone considered a "minority" in the tech professions is encouraged to participate; and men are included when invited by a woman colleague or friend.
+If you are a woman learning Rails, look for one of the free workshops from [RailsBridge](http://railsbridge.org/) or [Rails Girls](http://railsgirls.com/). Rails Girls recently resumed events after the pandemic; RailsBridge may be back by the time you read this. These are not exclusively for women; everyone considered a "minority" in the tech professions is encouraged to participate; and men are included when invited by a woman colleague or friend.
 
 ## Pair Programming
 
@@ -98,11 +98,14 @@ Learning to code is challenging, especially if you do it alone. Make it social a
 
 There's a popular trend in the workplace for programmers to work side-by-side on the same code, sharing a keyboard and screen. It's effective, both to increase productivity and to share knowledge, and many coders love it. When programmers are not in the same office, they share a screen remotely and communicate with video chat.
 
-Look for opportunities to pair program. It's the best way to learn to code, even if your pairing partner is only another beginner. Learn more about pair programming on the site [pairprogramwith.me](http://www.pairprogramwith.me/) and find a pairing partner at [codermatch.me](http://www.codermatch.me/) or [letspair.net](http://www.letspair.net/).
+Look for opportunities to pair program. It's the best way to learn to code, even if your pairing partner is only another beginner. Learn more about pair programming on the site [pairprogramwith.me](http://www.pairprogramwith.me/).
 
 Remote pair programming requires tools for screen sharing and video chat. Pairing sessions often use:
 
-- [Google+ Hangouts](http://www.google.com/+/learnmore/hangouts/) - [Screenhero](http://screenhero.com/) - [Floobits](https://floobits.com/) - [Cloud9 IDE](https://c9.io/)
+- [Google Meet](https://workspace.google.com/products/meet/) 
+- [Screenhero](http://screenhero.com/) 
+- [Floobits](https://floobits.com/) 
+- [Cloud9 IDE](https://c9.io/)
 
 More tools are emerging as remote pair programming becomes popular.
 

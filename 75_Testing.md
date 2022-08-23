@@ -1077,7 +1077,7 @@ your page flow.
 Behavior-Driven Development
 ---------------------------
 
-In Book One, you learned about the software
+In the book *Learn Ruby on Rails: First Steps*, you learned about the software
 development approach called Behavior-Driven Development (BDD), or
 sometimes, Behavior-Driven Design. In writing the feature tests for the
 home page, you saw it in action. With BDD, you turn user stories into

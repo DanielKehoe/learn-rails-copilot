@@ -4,9 +4,9 @@ Before you can start building, you'll need to install Ruby (the language) and Ra
 
 ## Text Editor and Terminal Applications
 
-I've explained how to use a text editor and terminal application in Book One. If you haven't used the Unix command line before, refer to Book One for an introduction.
+I've explained how to use a text editor and terminal application in the book *Learn Ruby on Rails: First Steps*. If you haven't used the Unix command line before, refer to the book for an introduction.
 
-I recommend the [Atom](https://atom.io/) text editor but you may use [Sublime Text](http://www.sublimetext.com/) or any others that provide syntax highlighting. Refer to Book One for important instructions about setting up the text editor so you can open a file from the command line.
+I recommend the [Atom](https://atom.io/) text editor but you may use [Sublime Text](http://www.sublimetext.com/) or any others that provide syntax highlighting. Refer to the book *Learn Ruby on Rails: First Steps* for important instructions about setting up the text editor so you can open a file from the command line.
 
 ## Copying and Pasting Code
 
@@ -128,7 +128,7 @@ Cloud9 is ideal if you have a fast Internet connection. If not, download the Rai
 
 Take a moment to think about where on your computer you'll do your work and store your files. You may have a **documents/** folder. You could make a similar folder named **projects/** or **code/** or **workspace/** for your programming projects. Use the Unix `mkdir` command to create a folder or create it with your file browser.
 
-If you haven't done so already, make a folder to contain your programming projects. You don't need to do this if you already created a **workspace/** folder in the Unix chapter in Book One.
+If you haven't done so already, make a folder to contain your programming projects. You don't need to do this if you already created a **workspace/** folder in the Unix chapter in the book *Learn Ruby on Rails: First Steps*.
 
 ```console $ cd ~ $ pwd /Users/danielkehoe $ mkdir workspace $ cd workspace ``` In this tutorial, the terms "folders" and "directories" mean the same thing.
 

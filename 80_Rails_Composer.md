@@ -369,7 +369,7 @@ the "foobar-kadigan" application with Rails Composer, it simply built a
 replica of our tutorial application. When you build the other starter
 application, the options get more interesting. Rails Composer lets
 developers customize their starter applications for their favorite stack
-(we discussed stacks in the "Concepts" chapter in Book One).
+(we discussed stacks in the "Concepts" chapter in the book *Learn Ruby on Rails: First Steps*).
 
 Let's see what options we get when we build the powerful
 [rails-devise-roles](https://github.com/RailsApps/rails-devise-roles)
@@ -497,7 +497,7 @@ choose  Enter your selection:
 ```
 
 In this book, all our view templates were written using the ERB template
-language. In the "Concepts" chapter in Book One, you learned that components of
+language. In the "Concepts" chapter in the book *Learn Ruby on Rails: First Steps*, you learned that components of
 Rails can be mixed for different stacks. Some developers substitute
 [Haml](http://haml.info/) or [Slim](http://slim-lang.com/) for ERB. I've
 written an article on [Haml and

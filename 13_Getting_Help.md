@@ -1,6 +1,6 @@
 # Get Help When You Need It
 
-This chapter appears in the first book in this series, but I've included an expanded version here in Book Two because it is important.
+This chapter appears in the book *Learn Ruby on Rails: First Steps*, but I've included an expanded version here because it is important.
 
 ## Example Code
 

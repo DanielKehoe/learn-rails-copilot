@@ -25,7 +25,7 @@ pure HTML sent to the browser.
 The most popular templating language available for Rails is *ERB*,
 Embedded Ruby, which is the Rails default.
 
-In the "Concepts" chapter in Book One, you learned that components of Rails can be
+In the "Concepts" chapter in the book *Learn Ruby on Rails: First Steps*, you learned that components of Rails can be
 mixed for different "stacks." Some developers substitute
 [Haml](http://haml.info/) or [Slim](http://slim-lang.com/) for ERB.
 We'll use ERB in this book because it is the most popular.

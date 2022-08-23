@@ -170,7 +170,7 @@ model–view–controller concept.
 
 This eight minute video introduces the model–view–controller concept:
 
-- [Model View Controller in Rails](https://tutorials.railsapps.org/videos/11)
+- [Model View Controller in Rails](https://www.youtube.com/watch?v=fWOSN8FLHTY)
 
 ### The Model View Controller Concept
 

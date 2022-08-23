@@ -12,9 +12,9 @@ If you've built simple websites with HTML and CSS, or built websites with unstru
 
 ## Video Option
 
-Watch the eleven minute video if you have subscribed:
+Watch the eleven minute video on YouTube:
 
-- [Rails Project Directory](https://tutorials.railsapps.org/videos/9)
+- [Rails Project Directory](https://www.youtube.com/watch?v=klHTo3NgSUs)
 
 ## Project Directory
 

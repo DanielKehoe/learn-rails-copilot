@@ -42,9 +42,9 @@ Now let's consider where to look for help when you are working on your own Rails
 
 ### Video Option
 
-Watch the six minute video if you have subscribed:
+Watch the six minute video on YouTube:
 
-- [Get Help with Rails](https://tutorials.railsapps.org/videos/5)
+- [Get Help with Rails](https://www.youtube.com/watch?v=MvcyW7i5Br4&t=5s)
 
 ### Where To Go For Help?
 

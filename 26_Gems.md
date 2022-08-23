@@ -11,10 +11,10 @@ copied and modified.
 
 ## Videos
 
-If you have subscribed, two short videos introduce gems:
+Two short videos on YouTube introduce gems:
 
-- [What Are Rubygems](https://tutorials.railsapps.org/videos/3)
-- [Find Rubygems](https://tutorials.railsapps.org/videos/4)
+- [What Are Rubygems](https://www.youtube.com/watch?v=M4szKwqFHKs)
+- [Find Rubygems](https://www.youtube.com/watch?v=MvcyW7i5Br4)
 
 ## RubyGems
 

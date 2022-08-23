@@ -41,10 +41,10 @@ reason you cannot set environment variables on your machine.
 
 ## Videos
 
-If you have subscribed, now's a good time to watch:
+You can watch two videos on YouTube:
 
-- [UNIX Environment Variables](https://tutorials.railsapps.org/videos/7)
-- [Rails Environment Variables](https://tutorials.railsapps.org/videos/8)
+- [UNIX Environment Variables](https://www.youtube.com/watch?v=lySYSk6kCc8)
+- [Rails Environment Variables](https://www.youtube.com/watch?v=VeUbuk3woH4)
 
 About Environment Variables
 ---------------------------

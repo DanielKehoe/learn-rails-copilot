@@ -142,9 +142,9 @@ The Unix `mkdir` command creates an empty folder and we move into it with the Un
 
 ### Video Option
 
-Watch the four minute video if you have subscribed:
+Watch the four minute video on YouTube:
 
-- [UNIX Commands Basics](https://tutorials.railsapps.org/videos/2)
+- [UNIX Commands Basics](https://www.youtube.com/watch?v=f66qTHulX5M)
 
 ## Understanding Version Numbers
 

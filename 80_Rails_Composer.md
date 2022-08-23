@@ -8,7 +8,7 @@ the book.
 
 Watch the video for a demonstration of Rails Composer:
 
-- [Rails Composer](https://tutorials.railsapps.org/videos/10)
+- [Rails Composer](https://www.youtube.com/watch?v=xKnMZR-cXDU)
 
 ## Building Starter Applications
 

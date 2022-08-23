@@ -80,7 +80,7 @@ The API documentation for Ruby and Rails shows every class and method. These are
 
 I recommend [Dash](http://kapeli.com/dash) as a tool to look up classes, modules, and methods in Ruby and Rails. Dash is a macOS app; use [Zeal](http://zealdocs.org/) on Linux. Dash and Zeal run offline (they don't need an Internet connection) so you can use them anywhere.
 
-Meetups, Hack Nights, and Workshops -----------------------------------
+## Meetups, Hack Nights, and Workshops
 
 I'd like to urge you to find ways you can work with others who are learning Rails. Peer support is really important when you face a challenge and want to overcome obstacles.
 
@@ -90,7 +90,7 @@ Local user groups often sponsor hack nights or [hackathons](http://en.wikipedia.
 
 If you are a woman learning Rails, look for one of the free workshops from [RailsBridge](http://railsbridge.org/) or [Rails Girls](http://railsgirls.com/). These are not exclusively for women; everyone considered a "minority" in the tech professions is encouraged to participate; and men are included when invited by a woman colleague or friend.
 
-Pair Programming ----------------
+## Pair Programming
 
 Learning to code is challenging, especially if you do it alone. Make it social and you'll learn faster and have more fun.
 
@@ -104,7 +104,7 @@ Remote pair programming requires tools for screen sharing and video chat. Pairin
 
 More tools are emerging as remote pair programming becomes popular.
 
-Pairing With a Mentor ---------------------
+## Pairing With a Mentor
 
 By far, the best way to learn is to have a mentor at your side as you undertake a project. That is an opportunity that is seldom available, unless you've been hired to be part of a team in a company that encourages pair programming.
 
@@ -116,7 +116,7 @@ If you can pay for help, find a mentor using [HackHands](http://hackhands.com/) 
 
 [HackHands](http://hackhands.com/) promises to instantly connect you with a qualified expert at a cost of one dollar per minute for mentorship using video chat and screen sharing.
 
-Code Review -----------
+## Code Review
 
 Code review is an essential part of the development process. There's always more than one way to implement a feature, and some ways are better than others, but you may not know it unless you ask someone to look at your code. When you pair with a mentor, you get the benefit of code review. But even if you don't have a mentor, you can get code review online. StackExchange, the parent of StackOverflow, has a free site for code review, and a new service promises code review as a service:
 
@@ -126,7 +126,7 @@ Expert code review will accelerate your learning faster than anything else.
 
 Knowing where to go for help is important; it is just as important to stay current.
 
-Staying Up-to-Date -----------
+## Staying Up-to-Date
 
 Rails changes frequently and its community is very active. Changes to Rails, expert blog articles, and new gems can impact your projects, even if you don't work full-time as a Rails developer. Consequently, I urge you to stay up-to-date with news from the community.
 

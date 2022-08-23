@@ -76,13 +76,15 @@ Even better than a cheatsheet, for Mac users, is an application named [Dash](htt
 
 The API documentation for Ruby and Rails shows every class and method. These are extremely technical documents (the only thing more technical is reading the source code itself). The documents offer very little help for beginners, as each class and method is considered in isolation, but there are times when checking the API documentation is the only way to know for certain how something works.
 
-- [Rails Documentation](http://api.rubyonrails.org/) - official API docs - [apidock.com/rails](http://apidock.com/rails) - Rails API docs with usage notes - [apidock.com/ruby](http://apidock.com/ruby) - Ruby API docs with usage notes
+- official API docs [Rails Documentation](http://api.rubyonrails.org/) 
+- Rails API docs with usage notes [apidock.com/rails](http://apidock.com/rails) 
+- Ruby API docs with usage notes [apidock.com/ruby](http://apidock.com/ruby)
 
 I recommend [Dash](http://kapeli.com/dash) as a tool to look up classes, modules, and methods in Ruby and Rails. Dash is a macOS app; use [Zeal](http://zealdocs.org/) on Linux. Dash and Zeal run offline (they don't need an Internet connection) so you can use them anywhere.
 
 ## Meetups, Hack Nights, and Workshops
 
-I'd like to urge you to find ways you can work with others who are learning Rails. Peer support is really important when you face a challenge and want to overcome obstacles.
+I'd like to urge you to find ways you can work with others who are learning Rails. Peer support is important when you face a challenge and want to overcome obstacles.
 
 Most large urban areas have meetups or user group meetings for Rails developers. Try [Meetup.com](http://www.meetup.com/) or google "ruby rails (my city)". The community of Rails developers is friendly and eager to help beginners. If you are near a Rails meetup, it is really worthwhile to connect to other developers for help and support. You may find a group that meets weekly for beginners who study together.
 

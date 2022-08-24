@@ -115,13 +115,15 @@ By far, the best way to learn is to have a mentor at your side as you work on a 
 
 You can try [RailsMentors](http://www.railsmentors.org/), a network of volunteer mentors offering free help.
 
-If you can pay for help, try [Codementor](https://www.codementor.io/). Market rates are expensive for a student, obviously, but if you are learning on the job or building an application for your own business, connecting online with a mentor might be a godsend.
+If you can pay for help, try [Codementor](https://www.codementor.io/). Market rates are expensive for a student but if you are on a job or building an application for your own business, connecting online with a mentor might be a godsend.
 
 ## Code Review
 
-Code review is an essential part of the development process. There's always more than one way to implement a feature, and some ways are better than others, but you may not know it unless you ask someone to look at your code. When you pair with a mentor, you get the benefit of code review. But even if you don't have a mentor, you can get code review online. StackExchange, the parent of StackOverflow, has a free site for code review, and a new service promises code review as a service:
+Code review is an essential part of the development process. There's always more than one way to implement a feature, and some ways are better than others, but you may not know it unless you ask someone to look at your code. When you pair with a mentor, you get the benefit of code review. You also can get code reviews online. StackExchange, the parent of StackOverflow, has a free site for code review:
 
 - [codereview.stackexchange.com](http://codereview.stackexchange.com/)
+
+Code review is available as a service:
 
 Expert code review will accelerate your learning faster than anything else.
 

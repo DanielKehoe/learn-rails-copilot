@@ -26,7 +26,7 @@ Let's consider what to do if you encounter problems as you build the tutorial ap
 
 If you are in a classroom, or studying in a group, ask a peer to look at your problem. Most problems are caused by simple typos or formatting errors. Your classmate may see what you overlooked.
 
-[Stack Overflow](http://stackoverflow.com/questions/tagged/learn-ruby-on-rails) provides a question-and-answer forum for readers of this book. As the author of this book, I can't solve your individual problems or help you directly by email. If I did, I would not have time to create the tutorials and videos that benefit so many people. However, I watch for questions on Stack Overflow. Everyone benefits when solutions are made public.
+[Stack Overflow](http://stackoverflow.com/questions/tagged/learn-ruby-on-rails) provides a question-and-answer forum for readers of this book. As the author of this book, I can't solve your individual problems or help you directly by email. If I did, I would not have time to create the tutorials that benefit so many people. However, I watch for questions on Stack Overflow. Everyone benefits when solutions are made public.
 
 - tag your questions on Stack Overflow with **railsapps** for extra attention
 
@@ -123,30 +123,30 @@ Code review is an essential part of the development process. There's always more
 
 - [codereview.stackexchange.com](http://codereview.stackexchange.com/)
 
-Code review is available as a service:
+Code review is available as a service for $699/month:
+
+- [pullrequest.com](https://www.pullrequest.com/)
 
 Expert code review will accelerate your learning faster than anything else.
-
-Knowing where to go for help is important; it is just as important to stay current.
 
 ## Staying Up-to-Date
 
 Rails changes frequently and its community is very active. Changes to Rails, expert blog articles, and new gems can impact your projects, even if you don't work full-time as a Rails developer. Consequently, I urge you to stay up-to-date with news from the community.
 
-I suggest signing up for two weekly email newsletters:
+I suggest signing up for a free weekly email newsletter:
 
-- [Ruby Weekly](http://rubyweekly.com/) - [Green Ruby News](http://greenruby.org/)
+- [Ruby Weekly](http://rubyweekly.com/) 
 
-Another weekly email newsletter is more technical, and focused on code arriving in the next version of Rails:
+The Rails official weekly email newsletter is more technical, and focused on code arriving in the next version of Rails:
 
-- [This Week in Rails](https://rails-weekly.ongoodbits.com/)
+- [This Week in Rails](https://world.hey.com/this.week.in.rails)
 
 For daily news about Rails, check Peter Cooper's [RubyFlow](http://www.rubyflow.com/) site which lists new blog posts from Rails developers each day.
 
-Also take a look at this list of top blogs for Rails developers:
+It's a bit dated (from 2016), but take a look at this list of top blogs for Rails developers:
 
 - [45 Ruby Blogs](http://blog.honeypot.io/45-ruby-blogs/)
 
-If you like podcasts, check out [Ruby Rogues](http://rubyrogues.com/) and Envy Labs's [Ruby5](http://ruby5.envylabs.com/).
+If you like podcasts, check out [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues/).
 
-Finally, you can follow [@rails\_apps](http://twitter.com/rails_apps) on Twitter for news about the RailsApps project. 
+Knowing where to go for help is important; it is just as important to stay current.

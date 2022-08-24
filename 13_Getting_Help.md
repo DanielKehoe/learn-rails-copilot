@@ -103,6 +103,8 @@ Look for opportunities to pair program. It's the best way to learn to code, even
 Remote pair programming requires tools for screen sharing and video chat. Pairing sessions often use:
 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) extension for VS Code
+- [Tuple](https://tuple.app/)
+- Drovio
 
 More tools are emerging as remote pair programming becomes popular.
 

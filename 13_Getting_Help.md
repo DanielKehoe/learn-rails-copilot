@@ -100,18 +100,18 @@ There's a popular trend in the workplace for programmers to work side-by-side on
 
 Look for opportunities to pair program. It's the best way to learn to code, even if your pairing partner is only another beginner. Learn more about pair programming on the site [pairprogramwith.me](http://www.pairprogramwith.me/).
 
-Remote pair programming requires tools for screen sharing and video chat. Pairing sessions often use:
+Remote pair programming requires tools for screen sharing and video chat. Developers often use:
 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) extension for VS Code
 - [Tuple](https://tuple.app/)
 - [Drovio](https://www.drovio.com/)
 - [Pop](https://pop.com/)
 
-Remote pair programming is popular so there are many other available tools.
+There are many other tools for remote pair programming.
 
 ## Pairing With a Mentor
 
-By far, the best way to learn is to have a mentor at your side as you undertake a project. That is an opportunity that is seldom available, unless you've been hired to be part of a team in a company that encourages pair programming.
+By far, the best way to learn is to have a mentor at your side as you work on a project. Usually that means you are working for company that encourages pair programming but solo developers have options, too.
 
 You can try [RailsMentors](http://www.railsmentors.org/), a network of volunteer mentors offering free help.
 

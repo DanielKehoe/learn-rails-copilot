@@ -104,7 +104,8 @@ Remote pair programming requires tools for screen sharing and video chat. Pairin
 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) extension for VS Code
 - [Tuple](https://tuple.app/)
-- Drovio
+- [Drovio](https://www.drovio.com/)
+- [Pop](https://pop.com/)
 
 More tools are emerging as remote pair programming becomes popular.
 

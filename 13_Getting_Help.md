@@ -102,10 +102,7 @@ Look for opportunities to pair program. It's the best way to learn to code, even
 
 Remote pair programming requires tools for screen sharing and video chat. Pairing sessions often use:
 
-- [Google Meet](https://workspace.google.com/products/meet/) 
-- [Screenhero](http://screenhero.com/) 
-- [Floobits](https://floobits.com/) 
-- [Cloud9 IDE](https://c9.io/)
+- Live Share extension for VS Code
 
 More tools are emerging as remote pair programming becomes popular.
 

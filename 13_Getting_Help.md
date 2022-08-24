@@ -115,11 +115,7 @@ By far, the best way to learn is to have a mentor at your side as you work on a 
 
 You can try [RailsMentors](http://www.railsmentors.org/), a network of volunteer mentors offering free help.
 
-If you can pay for help, find a mentor using [HackHands](http://hackhands.com/) or [AirPair](http://www.airpair.com/). Market rates are expensive for a student, obviously, but if you are learning on the job or building an application for your own business, connecting online with a mentor might be a godsend.
-
-[AirPair](http://www.airpair.com/) connects developers for real-time help using video chat and screen sharing. Experts set their own rate and the site matches you according to your budget. Expect to pay market rates for consulting ranging from USD \$40 per hour to \$150 per hour or more.
-
-[HackHands](http://hackhands.com/) promises to instantly connect you with a qualified expert at a cost of one dollar per minute for mentorship using video chat and screen sharing.
+If you can pay for help, try [Codementor](https://www.codementor.io/). Market rates are expensive for a student, obviously, but if you are learning on the job or building an application for your own business, connecting online with a mentor might be a godsend.
 
 ## Code Review
 

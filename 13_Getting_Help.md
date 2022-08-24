@@ -107,7 +107,7 @@ Remote pair programming requires tools for screen sharing and video chat. Pairin
 - [Drovio](https://www.drovio.com/)
 - [Pop](https://pop.com/)
 
-More tools are emerging as remote pair programming becomes popular.
+Remote pair programming is popular so there are many other available tools.
 
 ## Pairing With a Mentor
 

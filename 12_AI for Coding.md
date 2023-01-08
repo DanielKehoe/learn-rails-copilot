@@ -1,11 +1,33 @@
-# Copilot
-GitHub Copilot is an artificial intelligence tool that helps software developers write code. It is an add-on for the Visual Studio Code editor, a free and widely used code editor. It is also available as a plugin for the Neovim and JetBrains code editors.
+# AI for Coding
 
-GitHub Copilot requires a $10/month subscription. If you're a student with a .edu email address, you can get it for free. Of course, you might wonder whether $10/month is worth it. After using it with this book, you'll see that GitHub Copilot is worth the cost.
+You'll use two AI tools to learn to code, OpenAI ChatGPT and GitHub Copilot. Either of these tools can help a developer write code faster; together, these tools are changing how programmers work.
+
+You likely have encountered ChatGPT, as it is a popular resource for anyone who uses the Internet. In this book, I'll show you how professional programmers use ChatGPT.
+
+GitHub Copilot is a specialized AI tool built just for software developers. It is an add-on for the Visual Studio Code editor, a free and widely used code editor. 
+
+## Programming, Then and Now
+
+In the seven decades since the 1950s, when higher-level programming languages were first introduced, very little has changed in the daily work of a software programmer. Then, as now, we must transform descriptions of a desired software application (in the form of requirements or specifications) into software code that runs on computers.
+
+
+
+
+
+## ChatGPT
+
+
+
+## Copilot
+
+GitHub Copilot is an artificial intelligence tool that helps software developers write code. It's been available since mid-2021 as an add-on for the Visual Studio Code editor, a free and widely used code editor. It is also available as a plugin for the Neovim and JetBrains code editors.
+
+GitHub Copilot requires a $10/month subscription. If you're a student with an .edu email address, you can get it for free. Of course, you might wonder whether $10/month is worth it. After using it with this book, you'll see that GitHub Copilot is worth the cost.
 
 First I'll explain why coding with Copilot is so important. Then I'll show how to set up VS Code and Copilot.
 
 ## Why Copilot
+
 Simply put, Copilot is the future of coding.
 
 Copilot was introduced in mid-2021 and launched as a paid service in mid-2022. Before Copilot was introduced, professional software programmers did three things:
